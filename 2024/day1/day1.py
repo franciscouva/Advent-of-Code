@@ -1,4 +1,4 @@
-data = open('2024/1/data.txt').read().splitlines()
+data = open('2024/day1/data.txt').read().splitlines()
 
 list1 = []
 list2 = []
